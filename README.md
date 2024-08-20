@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @titine6299
+- 👋 Hi, I’m Adlane
 - 👀 I’m interested in app and web development  
 - 🌱 I’m currently learning a programming language called Dart and Flutter 
 - 💞️ I’m looking to collaborate on a future project 
